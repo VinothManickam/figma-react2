@@ -1,0 +1,134 @@
+.svgSpinnerswindToyIcon {
+  position: absolute;
+  top: -174px;
+  left: 242px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 471px);
+  background-color: var(--color-white);
+  width: 942px;
+  height: 100px;
+}
+.fullStackDeveloper {
+  position: absolute;
+  top: 23px;
+  left: 24px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 190px;
+  left: calc(50% - 670px);
+  width: 942px;
+  height: 100px;
+}
+.akarIconslocation,
+.epsuitcaseLineIcon,
+.vectorIcon {
+  position: absolute;
+  top: 229px;
+  left: 0;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.epsuitcaseLineIcon,
+.vectorIcon {
+  top: 21px;
+  left: 2px;
+}
+.vectorIcon {
+  height: 14.75%;
+  width: 5.53%;
+  top: 44.78%;
+  right: 94.54%;
+  bottom: 40.47%;
+  left: -0.07%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.groupItem {
+  position: absolute;
+  top: 0;
+  left: 94px;
+  background-color: var(--color-white);
+  width: 648px;
+  height: 80px;
+}
+.from2To,
+.from2To1 {
+  position: absolute;
+  bottom: 219px;
+  left: calc(50% - 241px);
+}
+.from2To1 {
+  bottom: 125px;
+}
+.groupInner,
+.rectangleDiv {
+  position: absolute;
+  top: 99px;
+  left: 94px;
+  background-color: var(--color-white);
+  width: 648px;
+  height: 80px;
+}
+.rectangleDiv {
+  top: 198px;
+}
+.canada,
+.notDisclosedBy {
+  position: absolute;
+  bottom: 120px;
+  left: calc(50% - 241px);
+}
+.canada {
+  bottom: 20px;
+  left: calc(50% - 240px);
+}
+.akarIconslocationParent {
+  position: absolute;
+  top: 333px;
+  left: 124px;
+  width: 742px;
+  height: 278px;
+  font-size: var(--font-size-13xl);
+  color: var(--color-black);
+}
+.groupChild1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #0a6167;
+  width: 700px;
+  height: 108px;
+}
+.applyOnCompany {
+  position: absolute;
+  top: 30px;
+  left: calc(50% - 247px);
+}
+.rectangleGroup {
+  position: absolute;
+  top: 682px;
+  left: 139px;
+  width: 700px;
+  height: 108px;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+}
+.desktop2 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 64px;
+  color: #012ea1;
+  font-family: var(--font-inter);
+}
